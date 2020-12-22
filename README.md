@@ -3,7 +3,7 @@
 
 ### Hi all, I'm [Matthias!]
 - I am looking for Ppl to train with me Languages
-- Ask me something here 
+- 🏮 Ask me something here 
 
 <br />
 <br />
