@@ -5,9 +5,8 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=9&title_color=COLOR6&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=9&title_color=COLOR4&theme=synthwave" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align= "right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Wasted-Time/github-readme-stats&title_color=COLOR4&theme=synthwave)
