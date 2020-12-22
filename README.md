@@ -8,4 +8,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=8&theme=synthwave" />
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tera-Wastes&repo=github-readme-stats)](https://github.com/Wasted-Time/github-readme-stats)
