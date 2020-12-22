@@ -3,7 +3,7 @@
 
 ### Hi all, I'm [Matthias!]
 - ❌ I looking for People to train with me Languages
-- 🏮 Ask me something here 
+- 🏮 Ask me about something [here](https://github.com/Wasted-Time/Wasted-Time/issues)
 - 😍 I am searching for some People to collaborate some Tera Scipt / and other tool.s 
 - 🎅 HAPPY CHRISTMAS
 
