@@ -11,4 +11,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&title_color=COLOR4&theme=synthwave" />
 </a>
-                                    
+  
+  
+- [Hi I am Matthias ]
+- I am looking for Ppl to train with me Languages
+- Ask me something here src="https://github.com/Wasted-Time/Wasted-Time/issues" />
