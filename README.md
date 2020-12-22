@@ -9,5 +9,4 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" https://github-readme-stats.vercel.app/ 3ca0061e-d634-4004-873d-6b1aafbbddb1/wakatime?Wasted-Time=willianrod&show_icons=true&title_color=COLOR4&theme=synthwave" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/ 3ca0061e-d634-4004-873d-6b1aafbbddb1/wakatime?username=willianrod)](https://github.com/Wasted-Time /github-readme-stats)
