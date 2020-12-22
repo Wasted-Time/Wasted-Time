@@ -2,8 +2,12 @@
 
 
 ### Hi all, I'm [Matthias!]
-- I am looking for Ppl to train with me Languages
+- ❌ I looking for People to train with me Languages
 - 🏮 Ask me something here 
+- 😍 I am searching for some People to collaborate some Tera Scipt / and other tool.s 
+
+**Languages:**
+
 
 <br />
 <br />
