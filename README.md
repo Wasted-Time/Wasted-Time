@@ -9,4 +9,4 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Wasted-Time/github-readme-stats&title_color=COLOR4&theme=synthwave)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Wasted-Time=willianrod)](https://github.com/Wasted-Time/github-readme-st)
