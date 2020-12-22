@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=9&title_color=DEG&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=9&title_color=COLOR6&theme=synthwave" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
