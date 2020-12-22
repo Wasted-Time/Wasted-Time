@@ -10,4 +10,4 @@
 
 ![Tera-Wastes github stats](https://github-readme-stats.vercel.app/api?username=Wasted-Time&show_icons=true&theme=synthwave)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tera-Wastes&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tera-Wastes&repo=github-readme-stats)](https://github.com/Wasted-Time/github-readme-stats)
