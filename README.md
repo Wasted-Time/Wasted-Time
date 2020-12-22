@@ -1,7 +1,7 @@
 ## <p align="center"> <img src="https://cdn.discordapp.com/emojis/594159590107643914.gif?v=1" height=50/> Tera-Wasted GitHub Beginn <img src="https://cdn.discordapp.com/emojis/594159590107643914.gif?v=1" height=50/> </p></font>
 
 
-### Hi all, I'm [Matthias!]
+### Hi all, I'm [Matthias!] This is my Beginning GitHub ###
 - ❌ I looking for People to train with me Languages
 - 🏮 Ask me about something [here](https://github.com/Wasted-Time/Wasted-Time/issues)
 - 😍 I am searching for some People to collaborate some Tera Scipt / and other tool.s 
