@@ -8,4 +8,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=8&theme=synthwave" />
 </a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=Wasted-Time&show_icons=true)
