@@ -31,5 +31,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?WastedTime=willianrod&title_color=COLOR4&theme=synthwave" />
 </a>
 
-<img align="center" src="https://github-readme-stats.wasted-time.vercel.app/api/wakatime?username=WastedTime&cache_seconds=1800&layout=compact&theme={{ github_readme_stats_theme }}" />
+<a href="https://wakatime.com/@WastedTime">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime&show_icons=true&hide_border=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
+</a>  
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
