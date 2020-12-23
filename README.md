@@ -21,7 +21,7 @@
 
 <a href="https://github.com/Wasted-Time/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wasted-Time&show_icons=true&title_color=	
-FF4040&icon_color=00d200&theme=synthwave" />
+brown1&icon_color=00d200&theme=synthwave" />
 </a>
 
 <a href="https://github.com/Wasted-Time/github-readme-stats">
