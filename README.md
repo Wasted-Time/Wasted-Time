@@ -22,11 +22,11 @@
 <br />
 <br />
 
-<a href="https://github.com/Wasted-Time/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wasted-Time&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave" />
 </a>
 
-<a href="https://github.com/Wasted-Time/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=12&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave" />
 </a>
 
