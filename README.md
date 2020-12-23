@@ -7,9 +7,9 @@
 - 😍 I am searching for some People to collaborate some Tera Scipt / and other tool.s 
 - 🎅 HAPPY CHRISTMAS
 
-**Languages:**
 
-- Languages I currently use...
+
+**Languages I currently use...**
 
 </p>
 
