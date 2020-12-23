@@ -31,4 +31,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?WastedTime=willianrod&title_color=COLOR4&theme=synthwave" />
 </a>
 
-[![WastedTime's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Languages" src="https://github-readme-stats.Wasted-Time.vercel.app/api/wakatime?username=WastedTime&cache_seconds=1800&layout=compact&theme={{ github_readme_stats_theme }}" />
+    <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
