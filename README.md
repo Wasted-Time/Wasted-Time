@@ -19,17 +19,17 @@
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Wasted-Time/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wasted-Time&show_icons=true&title_color=COLOR4&theme=synthwave" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Wasted-Time/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=8&title_color=COLOR4&theme=synthwave" />
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://wakatime.com/@WastedTime">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime&show_icons=true&hide_border=true&title_color=COLOR4&theme=synthwave">
 </a>  
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
-<a href="https://wakatime.com/@WastedTime">
+
