@@ -30,5 +30,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime=willianrod&title_color=COLOR4&theme=synthwave" />
 </a>
-  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimeWastedTimeWastedTime)](https://github.com/anuraghazra/github-readme-stats)
+
+
