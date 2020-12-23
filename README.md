@@ -16,7 +16,7 @@
 
 # and learn...
 
-[<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />](https://eslint.org/) [<img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=Deno&logoColor=white" />](https://deno.land) [<img alt="Dart" src="https://img.shields.io/badge/-Dart-17212f?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev) [<img src="https://img.shields.io/badge/Python-learning-brightgreen/>]
+[<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />](https://eslint.org/) [<img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=Deno&logoColor=white" />](https://deno.land) [<img alt="Dart" src="https://img.shields.io/badge/-Dart-17212f?style=flat-square&logo=dart&logoColor=white" />](https://dart.dev)
 
 
 <br />
