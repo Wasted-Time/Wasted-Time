@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?Matthias@WastedTime=willianrod&title_color=COLOR4&theme=synthwave" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?Matthias=willianrod&title_color=COLOR4&theme=synthwave" />
 </a>
   
   
