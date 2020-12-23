@@ -28,6 +28,6 @@
 </a>
 
 <a href="https://wakatime.com/@WastedTime">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime&show_icons=true&hide_border=true&title_color=COLOR4&theme=synthwave">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime&show_icons=true&hide_border=true&title_color=COLOR4&theme=synthwave">
 </a>  
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
