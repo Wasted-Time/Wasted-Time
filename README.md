@@ -20,19 +20,16 @@
 <br />
 
 <a href="https://github.com/Wasted-Time/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wasted-Time&show_icons=true&title_color=	
-brown1&icon_color=00d200&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wasted-Time&show_icons=true&title_color=FFFFFF&icon_color=00d200&theme=synthwave" />
 </a>
 
 <a href="https://github.com/Wasted-Time/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=8&show_icons=true&title_color=	
-FF4040&icon_color=00d200&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasted-Time&langs_count=8&show_icons=true&title_color=FFFFFF&icon_color=00d200&theme=synthwave" />
 </a>
 
 
 <a href="https://wakatime.com/@WastedTime">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime&show_icons=true&title_color=	
-FF4040&icon_color=00d200&theme=synthwave">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=WastedTime&show_icons=true&title_color=FFFFFF&icon_color=00d200&theme=synthwave">
 </a>  
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
     
