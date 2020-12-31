@@ -7,10 +7,9 @@
 - 😍 I am searching for some People to collaborate some Tera Scipt / and other tool.s 
 
 </p>
-<img src="https://happynewyear2021.net/wp-content/uploads/2019/09/Happy-New-Year-2019-GIF-Download-3.gif"/>
-
 #  Happy New Year
 
+<img src="https://media1.tenor.com/images/a0af75832b7790a7328b466687cbde28/tenor.gif?itemid=19678753"/>
 </a>
 
 
