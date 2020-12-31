@@ -6,9 +6,8 @@
 - 🏮 Ask me about something [here](https://github.com/Wasted-Time/Wasted-Time/issues)
 - 😍 I am searching for some People to collaborate some Tera Scipt / and other tool.s 
 
-</p>
 #  Happy New Year
-
+</p>
 <img src="https://media1.tenor.com/images/a0af75832b7790a7328b466687cbde28/tenor.gif?itemid=19678753" />
 </a>
 
