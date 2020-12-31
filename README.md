@@ -5,7 +5,7 @@
 - ❌ I looking for People to train with me Languages
 - 🏮 Ask me about something [here](https://github.com/Wasted-Time/Wasted-Time/issues)
 - 😍 I am searching for some People to collaborate some Tera Scipt / and other tool.s 
-- [<svg class="icon icon-link"><use xlink:href="#icon-link"></use></svg>] Happy New Year
+- <svg class="icon icon-icon"><use xlink:href="#icon-icon"></use></svg> Happy New Year
 
 
 
