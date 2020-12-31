@@ -7,8 +7,7 @@
 - 😍 I am searching for some People to collaborate some Tera Scipt / and other tool.s 
 
 </p>
-
-- <img alt= <svg "class="icon icon-icon"><use xlink:href="#icon-icon"></use></svg>" Happy New Year
+ Happy New Year
 </a>
 
 
