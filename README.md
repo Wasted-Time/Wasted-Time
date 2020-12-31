@@ -9,7 +9,7 @@
 </p>
 #  Happy New Year
 
-<img src="https://media1.tenor.com/images/a0af75832b7790a7328b466687cbde28/tenor.gif?itemid=19678753"/>
+<img src="https://media1.tenor.com/images/a0af75832b7790a7328b466687cbde28/tenor.gif?itemid=19678753" />
 </a>
 
 
