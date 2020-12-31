@@ -8,7 +8,7 @@
 
 </p>
 
-- [<img alt= <svg class="icon icon-icon"><use xlink:href="#icon-icon"></use></svg>] Happy New Year
+- [<img alt= <svg class="icon icon-icon"><use xlink:href="#icon-icon"></use></svg> />] Happy New Year
 
 </a>
 
