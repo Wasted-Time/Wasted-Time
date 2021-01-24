@@ -37,7 +37,10 @@
 
 
 <a href="https://wakatime.com/@WastedTime">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Matthias&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=
+Matthias
+@WastedTime
+&show_icons=true&title_color=FF7256&icon_color=00d200&theme=synthwave">
 </a>  
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
     
